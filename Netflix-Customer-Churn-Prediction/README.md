@@ -1,18 +1,18 @@
 # Netflix_Customer_Churn_Prediction
- 📊 Netflix Customer Churn Prediction
+ Netflix Customer Churn Prediction
 
-## 🚀 Overview
+##  Overview
 This project predicts whether a customer will churn using Machine Learning models.
 
 ---
 
-## 🧠 Models Used
+##  Models Used
 - Logistic Regression
 - K-Nearest Neighbors (KNN)
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 Netflix-Customer-Churn-Prediction/
 │
@@ -28,7 +28,7 @@ Netflix-Customer-Churn-Prediction/
 
 ---
 
-## ⚙️ Workflow
+##  Workflow
 1. Data Cleaning
 2. Encoding (One Hot Encoding)
 3. Feature Scaling
@@ -37,7 +37,7 @@ Netflix-Customer-Churn-Prediction/
 
 ---
 
-## 📈 Results
+##  Results
 - Logistic Regression Accuracy: XX%
 - KNN Accuracy: XX%
 
